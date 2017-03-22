@@ -29,7 +29,7 @@ This is a repository to practice using Git and GitHub.
   * Gnana Sekar
   * Sriram
   * Santhosh
-  * Raju
+  * Raju GIT HUB owner
   * Arunachalam
   * Shriguru
   * Vishwa Poojitha
